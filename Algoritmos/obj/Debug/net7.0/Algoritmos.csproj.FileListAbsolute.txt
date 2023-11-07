@@ -1,0 +1,14 @@
+C:\C#\Algoritmos\bin\Debug\net7.0\Algoritmos.exe
+C:\C#\Algoritmos\bin\Debug\net7.0\Algoritmos.deps.json
+C:\C#\Algoritmos\bin\Debug\net7.0\Algoritmos.runtimeconfig.json
+C:\C#\Algoritmos\bin\Debug\net7.0\Algoritmos.dll
+C:\C#\Algoritmos\bin\Debug\net7.0\Algoritmos.pdb
+C:\C#\Algoritmos\obj\Debug\net7.0\Algoritmos.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\Algoritmos\obj\Debug\net7.0\Algoritmos.AssemblyInfoInputs.cache
+C:\C#\Algoritmos\obj\Debug\net7.0\Algoritmos.AssemblyInfo.cs
+C:\C#\Algoritmos\obj\Debug\net7.0\Algoritmos.csproj.CoreCompileInputs.cache
+C:\C#\Algoritmos\obj\Debug\net7.0\Algoritmos.dll
+C:\C#\Algoritmos\obj\Debug\net7.0\refint\Algoritmos.dll
+C:\C#\Algoritmos\obj\Debug\net7.0\Algoritmos.pdb
+C:\C#\Algoritmos\obj\Debug\net7.0\Algoritmos.genruntimeconfig.cache
+C:\C#\Algoritmos\obj\Debug\net7.0\ref\Algoritmos.dll
